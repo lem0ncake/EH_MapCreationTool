@@ -152,10 +152,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 121397ab8e2697741a29eac8d583605b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  author: Energy8
-  email: energy8@energy8.io
-  map: Energy8 Map
-  description: https://energy8.io
+  author: 
+  email: 
+  map: 
+  description: 
 --- !u!4 &1793091434
 Transform:
   m_ObjectHideFlags: 0
